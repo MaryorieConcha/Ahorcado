@@ -18,8 +18,6 @@ public class Ahorcado {
         esSoloLetras(letra);
 
         comparar(letra, palabra, numeroDeVidas);
-
-
     }
 
     public static String [] seleccionarPalabra(String [] palabras){
